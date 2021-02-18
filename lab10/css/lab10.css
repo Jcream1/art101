@@ -42,3 +42,12 @@ p{
   border: solid 3px #444444;
   font-size: 20px;
 }
+#output{
+  background-color: #EEE685;
+  width: 650px;
+  min-height: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
