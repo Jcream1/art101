@@ -1,0 +1,72 @@
+h2 {
+  color: red;
+  text-indent: 280px;
+  font-size: 100%;
+}
+h3 {
+  text-indent: 10px;
+  font-size: 100%;
+}
+
+p{
+  font-family: "arial";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+
+#challenges{
+  background-color: #CAE1FF;
+  width: 700px;
+  min-height: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
+#problems{
+  background-color: #CAE1FF;
+  width: 700px;
+  min-height: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
+#results{
+  background-color: #CAE1FF;
+  width: 700px;
+  min-height: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
+#output{
+  background-color: #EEE685;
+  width: 750px;
+  min-height: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
+#output1{
+  background-color: #C0C0C0;
+  width: 650px;
+  min-height: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px #444444;
+  font-size: 20px;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.blue{
+  color: blue;
+}
